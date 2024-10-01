@@ -1,14 +1,5 @@
 <link rel="stylesheet" type="text/css" href="./docs/style.css">
-<style>
-  body {
-      background-color: #2e2e2e;
-      color: white;
-  }
 
-  img {
-      border: 2px solid #fff;
-  }
-</style>
 # Timer
 
 ## Project Title and Description
