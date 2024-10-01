@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="./docs/style.css">
-
 # Timer
 
 ## Project Title and Description
