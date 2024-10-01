@@ -67,11 +67,15 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/37080a48-02ca-44b5-a3fa-9fc61e86d386" width="300" height="300" alt="Homepage">
-    </td>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/be7de6eb-b3e8-4d31-a328-d9329ca807c8" width="300" height="300" alt="Timer Management">
-    </td>
+  <a href="https://github.com/user-attachments/assets/37080a48-02ca-44b5-a3fa-9fc61e86d386" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/37080a48-02ca-44b5-a3fa-9fc61e86d386" width="300" height="300" alt="Homepage">
+  </a>
+</td>
+<td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+  <a href="https://github.com/user-attachments/assets/be7de6eb-b3e8-4d31-a328-d9329ca807c8" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/be7de6eb-b3e8-4d31-a328-d9329ca807c8" width="300" height="300" alt="Timer Management">
+  </a>
+</td>
   </tr>
 </table>
 
